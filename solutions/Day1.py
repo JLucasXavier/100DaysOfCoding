@@ -4,6 +4,9 @@ for i in range(N):
     s2=temp.split(" ")
     s2=sorted(s2,key=len,reverse=True)
     nova=""
-    for j in s2:
-        nova+=j+" "
-    print(nova[:-1])
+    for j in range(len(s2)):
+        if(j==len(s2)-1):
+            nova=nova+s2[j]
+        else:
+            nova=nova+s2[j]+" "
+    print(nova)
