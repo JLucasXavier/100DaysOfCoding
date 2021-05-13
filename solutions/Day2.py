@@ -3,7 +3,6 @@ def imprimir(tmp):
     b=[]
     teste=tmp.split(" ")
     maximo = max(teste, key=int)
-    minimo=min(teste,key=int)
     n=int(maximo)
     for item in range(len(teste)-1,-1,-1):
         if(int(teste[item])==n):
