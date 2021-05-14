@@ -7,8 +7,8 @@
 | Day | Problem | Lang  | Tags |
 | :------------ | :------------ | :------------ | :------------ |
 | 1    | [Sort by Length](https://github.com/JLucasXavier/100DaysOfCoding/blob/master/solutions/Day1.py)     | python 3    | Data Structure     |
-| 2    | [Rails](https://github.com/JLucasXavier/100DaysOfCoding/blob/master/solutions/Day2.py)     | python 3    | Data Structure,Stack     |
-| 3    | [TDA Rational](https://github.com/JLucasXavier/100DaysOfCoding/blob/master/solutions/Day3.py)     | python 3    | Data Structure,Stack     |
+| 2    | [Rails](https://github.com/JLucasXavier/100DaysOfCoding/blob/master/solutions/Day2.py)     | python 3    | Data Structure     |
+| 3    | [TDA Rational](https://github.com/JLucasXavier/100DaysOfCoding/blob/master/solutions/Day3.py)     | python 3    | Data Structure     |
 
 
 ### Problems
